@@ -1,7 +1,7 @@
 {
-    "name": "Mahesh-babu-bot",
+    "name": "BunnyMoviebot",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
-    "logo": "https://telegra.ph/file/1f01bcbe6eb031ee3e381.jpg",
+    "logo": "https://telegra.ph/file/4c02eaadf16e8c6fb1f52.jpg",
     "stack": "container",
     "keywords": [
       "telegram",
@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/KGN-BOTS/Mahesh-babu-bot",
-    "repository": "https://github.com/KGN-BOTS/Mahesh-babu-bot",
+    "website": "https://github.com/Happy9012/Mahesh-babu-bot",
+    "repository": "https://github.com/Happy9012/Mahesh-babu-bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
