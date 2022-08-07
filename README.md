@@ -95,11 +95,11 @@ python3 bot.py
 • /link - to create link for one post
 ```
 ## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/KGN_BOTS_SUPPORT)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/KGN_BOTS)
+[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/pocketmovieschannel)
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/Pocketmoviesgroup)
 
 ## Credits 
-* [![ZAHID](https://img.shields.io/static/v1?label=ZAHID&message=dev&color=critical)](https://telegram.dog/KGN_OFFICIAL)
+* [![DON](https://img.shields.io/static/v1?label=DON&message=dev&color=critical)](https://telegram.dog/Himanshurathore0)
 
 
 ## Thanks to 
