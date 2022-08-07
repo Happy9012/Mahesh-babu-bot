@@ -2,7 +2,7 @@
 
 </p>
 <h1 align="center">
-  <b>Mahesh-babu-bot</b>
+  <b>Bunny Movies Bot</b>
 </h1>
 
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/KGN-BOTS/Mahesh-babu-bot)   
